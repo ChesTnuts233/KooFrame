@@ -1,0 +1,12 @@
+using UnityEngine;
+using KooFrame.BaseSystem;
+
+
+public class #NAME# : KooMonoBehaviour
+{
+   protected override void BeforeOnDestroy()
+   {
+        throw new System.NotImplementedException();
+   }
+}
+

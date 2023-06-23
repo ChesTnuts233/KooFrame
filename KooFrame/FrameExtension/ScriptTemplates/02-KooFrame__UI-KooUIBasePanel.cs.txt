@@ -1,0 +1,10 @@
+using UnityEngine;
+using KooFrame.BaseSystem;
+using UnityEngine.UI;
+using KooFrame;
+
+public class #NAME# : BasePanel
+{
+   
+}
+

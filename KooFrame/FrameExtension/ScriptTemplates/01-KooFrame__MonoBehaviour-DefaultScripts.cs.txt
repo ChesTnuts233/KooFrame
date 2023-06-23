@@ -1,0 +1,9 @@
+using UnityEngine;
+using KooFrame.BaseSystem;
+
+
+public class #NAME# : MonoBehaviour
+{
+   
+}
+
