@@ -1,232 +1,232 @@
-<mxfile host="app.diagrams.net" modified="2023-08-12T20:35:41.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="02Ni8bE9hNWCcxloVQU8" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T08:05:47.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="F12ei1yy5hDe-ZG2IJS5" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4513" dy="1669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4052" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-188" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-188" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="920" y="40" width="2340" height="1000" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-0" value="GameFrame" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-0" value="GameFrame" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-2" value="Editor拓展内容" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-2" value="Editor拓展内容" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="354" y="475" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-3" value="全局静态系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-3" value="全局静态系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="530" y="475" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-9" value="FrameBase" style="html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-9" value="FrameBase" style="html=1;whiteSpace=wrap;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="480" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-10" value="框架提供4种单例类型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-10" value="框架提供4种单例类型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-30" y="648" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-19" value="普通单例类&lt;br&gt;Singleton" style="html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-19" value="普通单例类&lt;br&gt;Singleton" style="html=1;whiteSpace=wrap;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry y="720" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-20" value="Mono单例类&lt;br&gt;SingletonMono" style="html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-20" value="Mono单例类&lt;br&gt;SingletonMono" style="html=1;whiteSpace=wrap;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry y="780" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-21" value="Mono单例类(过场景不销毁)&lt;br&gt;SingletonMonoNoDestroy&lt;br&gt;" style="html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-21" value="Mono单例类(过场景不销毁)&lt;br&gt;SingletonMonoNoDestroy&lt;br&gt;" style="html=1;whiteSpace=wrap;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry y="850" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-23" value="自动生成的Mono单例类(过场景不销毁)&lt;br&gt;AutoSingletonMono" style="html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-23" value="自动生成的Mono单例类(过场景不销毁)&lt;br&gt;AutoSingletonMono" style="html=1;whiteSpace=wrap;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry y="970" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-42" value="系统工具4.System_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-42" value="系统工具4.System_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2230" y="160" width="380" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-43" value="IDCardTool" style="swimlane;startSize=20;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-42">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-43" value="IDCardTool" style="swimlane;startSize=20;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-42" vertex="1">
           <mxGeometry y="20" width="190" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-100" value="身份证检测" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-43">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-100" value="身份证检测" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-43" vertex="1">
           <mxGeometry x="19.999999999999545" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-102" value="国家地区检测" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-43">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-102" value="国家地区检测" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-43" vertex="1">
           <mxGeometry x="19.999999999999545" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-44" value="SystemTool" style="swimlane;startSize=20;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-42">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-44" value="SystemTool" style="swimlane;startSize=20;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-42" vertex="1">
           <mxGeometry x="190" y="20" width="190" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-53" value="密码检查函数" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-44">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-53" value="密码检查函数" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-44" vertex="1">
           <mxGeometry x="9.999999999999545" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-54" value="输入检查函数" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-44">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-54" value="输入检查函数" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-44" vertex="1">
           <mxGeometry x="9.999999999999545" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-61" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="F6jERzwJOLFk2rBwIkmr-44" source="F6jERzwJOLFk2rBwIkmr-53" target="F6jERzwJOLFk2rBwIkmr-53">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-61" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="F6jERzwJOLFk2rBwIkmr-44" source="F6jERzwJOLFk2rBwIkmr-53" target="F6jERzwJOLFk2rBwIkmr-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-52" value="系统剪贴板函数" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-44">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-52" value="系统剪贴板函数" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-44" vertex="1">
           <mxGeometry x="9.999999999999545" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-55" value="版本号检查函数" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-44">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-55" value="版本号检查函数" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-44" vertex="1">
           <mxGeometry x="9.999999999999545" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-76" value="KooFrame、以及游戏框架 静态工具库整理" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fontSize=16;width=2310;height=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-76" value="KooFrame、以及游戏框架 静态工具库整理" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fontSize=16;width=2310;height=90;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="930" y="40" width="2320" height="950" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-77" value="数学工具6.Math_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-77" value="数学工具6.Math_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1290" y="170" width="380" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-78" value="KooMathTool" style="swimlane;startSize=20;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-77">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-78" value="KooMathTool" style="swimlane;startSize=20;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-77" vertex="1">
           <mxGeometry y="20" width="190" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-79" value="数值常量&lt;br&gt;eg: 十万 亿 黄金比例 一天秒数 重力加速度等等乱七八糟的数" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-78">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-79" value="数值常量&lt;br&gt;eg: 十万 亿 黄金比例 一天秒数 重力加速度等等乱七八糟的数" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-78" vertex="1">
           <mxGeometry x="15" y="40" width="165" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-80" value="获取数位数值函数" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-78">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-80" value="获取数位数值函数" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-78" vertex="1">
           <mxGeometry x="27.499999999999545" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-81" value="数值转字符串转中文" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-78">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-81" value="数值转字符串转中文" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-78" vertex="1">
           <mxGeometry x="27.499999999999545" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-82" value="数值转英文序号" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-78">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-82" value="数值转英文序号" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-78" vertex="1">
           <mxGeometry x="27.499999999999545" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-83" value="KooRandomTool" style="swimlane;startSize=20;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-77">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-83" value="KooRandomTool" style="swimlane;startSize=20;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-77" vertex="1">
           <mxGeometry x="190" y="20" width="190" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-84" value="集合数组中随机给一数" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-83">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-84" value="集合数组中随机给一数" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-83" vertex="1">
           <mxGeometry x="34.999999999999545" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-88" value="生成随机数组。。" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-83">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-88" value="生成随机数组。。" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-83" vertex="1">
           <mxGeometry x="35" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-89" value="Object工具7.Object_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-89" value="Object工具7.Object_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="960" y="565" width="360" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-90" value="KooGameObjectTool" style="swimlane;startSize=20;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-89">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-90" value="KooGameObjectTool" style="swimlane;startSize=20;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-89" vertex="1">
           <mxGeometry y="20" width="210" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-91" value="静态拓展：&lt;br&gt;gameObject.XXX" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-90">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-91" value="静态拓展：&lt;br&gt;gameObject.XXX" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-90" vertex="1">
           <mxGeometry x="15" y="40" width="145" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-92" value="静态拓展有：实例化，销毁 ，添加组件，获取子节点数量" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-90">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-92" value="静态拓展有：实例化，销毁 ，添加组件，获取子节点数量" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-90" vertex="1">
           <mxGeometry x="15" y="100" width="155" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-94" value="简化预制体名称&lt;br&gt;去除(Clone)" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-90">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-94" value="简化预制体名称&lt;br&gt;去除(Clone)" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-90" vertex="1">
           <mxGeometry x="32.499999999999545" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-95" value="KooObjectTool" style="swimlane;startSize=20;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-89">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-95" value="KooObjectTool" style="swimlane;startSize=20;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-89" vertex="1">
           <mxGeometry x="210" y="20" width="150" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-96" value="还没写" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-95">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-96" value="还没写" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-95" vertex="1">
           <mxGeometry x="10.999999999999545" y="65" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-103" value="时间工具8.Time_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-103" value="时间工具8.Time_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1410" y="565" width="400" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-104" value="KooDataTimeTool" style="swimlane;startSize=20;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-103">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-104" value="KooDataTimeTool" style="swimlane;startSize=20;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-103" vertex="1">
           <mxGeometry y="20" width="210" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-105" value="获取格式化系统时间" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-104">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-105" value="获取格式化系统时间" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-104" vertex="1">
           <mxGeometry x="15" y="40" width="145" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-107" value="获取现在时间" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-104">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-107" value="获取现在时间" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-104" vertex="1">
           <mxGeometry x="27.499999999999545" y="125" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-108" value="KooGameTimeTool" style="swimlane;startSize=20;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-103">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-108" value="KooGameTimeTool" style="swimlane;startSize=20;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-103" vertex="1">
           <mxGeometry x="210" y="20" width="190" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-109" value="还没写 应该有顿帧 时停等" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-108">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-109" value="还没写 应该有顿帧 时停等" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-108" vertex="1">
           <mxGeometry x="39.999999999999545" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-113" value="数组工具9.Array_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-113" value="数组工具9.Array_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1870" y="565" width="270" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-114" value="KooArrayTool" style="swimlane;startSize=20;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-113">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-114" value="KooArrayTool" style="swimlane;startSize=20;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-113" vertex="1">
           <mxGeometry y="20" width="270" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-115" value="比较数组是否相等" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-114">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-115" value="比较数组是否相等" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-114" vertex="1">
           <mxGeometry x="15" y="40" width="165" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-122" value="生成一系列随机数组" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-122" value="生成一系列随机数组" style="whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1900" y="725" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-123" value="向量工具10.Vector_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-123" value="向量工具10.Vector_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2170" y="575" width="270" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-124" value="KooVectorTool" style="swimlane;startSize=20;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-123">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-124" value="KooVectorTool" style="swimlane;startSize=20;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-123" vertex="1">
           <mxGeometry y="20" width="270" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-125" value="静态拓展：&lt;br&gt;比较2-4维Vector的大小" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-124">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-125" value="静态拓展：&lt;br&gt;比较2-4维Vector的大小" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-124" vertex="1">
           <mxGeometry x="15" y="40" width="165" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-128" value="字符串工具11.String_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-128" value="字符串工具11.String_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1730" y="170" width="190" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-129" value="KooStringTool" style="swimlane;startSize=20;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-128">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-129" value="KooStringTool" style="swimlane;startSize=20;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-128" vertex="1">
           <mxGeometry y="20" width="190" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-130" value="字符串拆分与替换" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-129">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-130" value="字符串拆分与替换" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-129" vertex="1">
           <mxGeometry x="15" y="40" width="165" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-131" value="设备工具14.Device_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-131" value="设备工具14.Device_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2690" y="150" width="190" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-132" value="KooScreenTool" style="swimlane;startSize=20;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-131">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-132" value="KooScreenTool" style="swimlane;startSize=20;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-131" vertex="1">
           <mxGeometry y="20" width="190" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-133" value="屏幕分辨率检测" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-132">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-133" value="屏幕分辨率检测" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-132" vertex="1">
           <mxGeometry x="15" y="40" width="165" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-134" value="颜色工具11.Color_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-134" value="颜色工具11.Color_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2520" y="575" width="270" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-135" value="KooColorTool" style="swimlane;startSize=20;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-134">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-135" value="KooColorTool" style="swimlane;startSize=20;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-134" vertex="1">
           <mxGeometry y="20" width="270" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-136" value="检查是否为16进制颜色格式" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-135">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-136" value="检查是否为16进制颜色格式" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-135" vertex="1">
           <mxGeometry x="15" y="40" width="165" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-146" value="获取灰度值" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-135">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-146" value="获取灰度值" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-135" vertex="1">
           <mxGeometry x="15" y="130" width="165" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-152" value="协程工具2.Coroutine_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-152" value="协程工具2.Coroutine_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="970" y="160" width="260" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-153" value="KooCoroutineTool" style="swimlane;startSize=20;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-152">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-153" value="KooCoroutineTool" style="swimlane;startSize=20;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-152" vertex="1">
           <mxGeometry y="20" width="260" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-154" value="重新封装了&lt;br&gt;WaitForEndFrame&lt;br&gt;WaitForFixedUpdate&lt;br&gt;YidldInstruction&lt;br&gt;减少了new 操作与GC" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-153">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-154" value="重新封装了&lt;br&gt;WaitForEndFrame&lt;br&gt;WaitForFixedUpdate&lt;br&gt;YidldInstruction&lt;br&gt;减少了new 操作与GC" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-153" vertex="1">
           <mxGeometry x="22.5" y="40" width="145" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-159" value="WaitForSeconds" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-153">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-159" value="WaitForSeconds" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-153" vertex="1">
           <mxGeometry x="30" y="180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-164" value="WaitForSeconds&lt;br&gt;RealTime" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-153">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-164" value="WaitForSeconds&lt;br&gt;RealTime" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-153" vertex="1">
           <mxGeometry x="30" y="220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-171" value="WaitForFrames" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-153">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-171" value="WaitForFrames" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-153" vertex="1">
           <mxGeometry x="30" y="260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-173" value="事件工具" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-173" value="事件工具" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2900" y="565" width="270" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-174" value="KooEventTool" style="swimlane;startSize=20;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-173">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-174" value="KooEventTool" style="swimlane;startSize=20;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-173" vertex="1">
           <mxGeometry y="20" width="270" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-176" value="太多了 还没写" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-174">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-176" value="太多了 还没写" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-174" vertex="1">
           <mxGeometry x="50" y="65" width="165" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-56" value="文件工具5.File_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-56" value="文件工具5.File_Tool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1990" y="160" width="190" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-59" value="KooFileTool" style="swimlane;startSize=20;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-56">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-59" value="KooFileTool" style="swimlane;startSize=20;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-56" vertex="1">
           <mxGeometry y="20" width="190" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-60" value="计算机单位常量" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-59">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-60" value="计算机单位常量" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-59" vertex="1">
           <mxGeometry x="14.999999999999545" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-65" value="路径处理函数" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-59">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-65" value="路径处理函数" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-59" vertex="1">
           <mxGeometry x="14.999999999999545" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-66" value="Unity文件打包函数" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-59">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-66" value="Unity文件打包函数" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-59" vertex="1">
           <mxGeometry x="14.999999999999545" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6jERzwJOLFk2rBwIkmr-67" value="文本保存函数" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="F6jERzwJOLFk2rBwIkmr-59">
+        <mxCell id="F6jERzwJOLFk2rBwIkmr-67" value="文本保存函数" style="whiteSpace=wrap;html=1;fontSize=16;" parent="F6jERzwJOLFk2rBwIkmr-59" vertex="1">
           <mxGeometry x="14.999999999999545" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
